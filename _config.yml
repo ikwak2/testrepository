@@ -1,1 +1,5 @@
+title: test repository
+description: 연습용 리퍼지토리.
+show_downloads: true
+google_analytics:
 theme: jekyll-theme-cayman
